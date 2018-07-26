@@ -1,0 +1,25 @@
+{
+  "name": "nugen-manageement",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-autosuggest": "^9.3.4",
+    "react-cookies": "^0.1.0",
+    "react-dom": "^16.4.1",
+    "react-loader": "^2.4.5",
+    "react-responsive-modal": "^3.0.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-toastify": "^4.1.0",
+    "react-validation": "^3.0.7",
+    "validator": "^10.3.0",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
